@@ -1,6 +1,6 @@
 print ("Hola mundo")
 
-x == "si"
+DesicionDeLevantarse == "si"
 
 if x>0:
     print("El numero qu colocaste es positivo")
