@@ -1,10 +1,10 @@
-print ("Hola mundo")
+print ("Te levantas a las 7 AM")
 
 DesicionDeLevantarse == "si"
 
-if x>0:
-    print("El numero qu colocaste es positivo")
+if x=="si":
+    print("Si llegas a tiempo a tu destino")
 else:
-    print("El numero que colocaste no es neg")
+    print("No llegas a tiempo a tu destino")
 
     
